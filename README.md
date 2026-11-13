@@ -25,11 +25,11 @@
 
 ```bash
 # 用户级（所有项目可用，推荐）
-git clone https://github.com/<your-name>/software-copyright-filing.git \
+git clone https://github.com/DDguai-ace/software-copyright-filing.git \
   ~/.workbuddy/skills/software-copyright-filing
 
 # 项目级（仅当前工程可用）
-git clone https://github.com/<your-name>/software-copyright-filing.git \
+git clone https://github.com/DDguai-ace/software-copyright-filing.git \
   .workbuddy/skills/software-copyright-filing
 ```
 
